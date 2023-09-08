@@ -1,0 +1,47 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.parent-grid {
+    display: grid;
+    gap: 10px;
+    grid-template-columns: repeat(16, 1fr);
+    grid-column: ;
+    border: 1px solod red;
+}
+
+.interior, .exterior, .design, .decoration, .planning, .execution {
+    border: 5px solid red;
+
+}
+
+.interior {
+    
+}
+
+.exterior {
+
+}
+
+.design {
+
+}
+
+img {
+    width: 500px;
+    height: 300px;
+}
+
+.decoration {
+
+}
+
+.planning {
+
+}
+
+.execution {
+
+}
